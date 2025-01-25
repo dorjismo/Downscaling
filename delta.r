@@ -1,3 +1,4 @@
+# Calculate anomalies
 # Load required libraries
 library(terra)
 library(stringr)
