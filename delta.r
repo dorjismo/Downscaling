@@ -1,7 +1,3 @@
-# Calculate anomalies
-# set working directory
-setwd("C:/Users/s4597131/OneDrive - The University of Queensland/Documents/Doctor of Philosophy UQ/")
-
 # Load required libraries
 library(terra)
 library(stringr)
