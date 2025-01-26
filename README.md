@@ -1,1 +1,1 @@
-Delta method of downscaling general circulation models. 
+Delta method of downscaling general circulation models. The 10 general circulation models (ACCESS-CM2, CNRM-ESM2-1, CRNM-CM6-1, INM-CM4-8, INM-CM5-0, MIROC-ES2L, MIROC6, MPI-ESM1-2-LR, MRI-ESM2-0, NorESM2-MM), that have participated in the CMIP6 of the IPCC were downscaled to 250 m resolution of observation. This is the 3rd Chapter of my PhD. 
